@@ -4,7 +4,7 @@ Pair-A-Palooza is an event created by Kara Carrell, as a way to scope a block of
 
 Using Get-Zine-To-Know-You with Pair-A-Palooza, Kara created a zine to accompany the event, and a process for introducing it with a work group.
 
-### Goals
+## Goals
 
 1) Develop some self awareness
 2) Foster communications in teams
