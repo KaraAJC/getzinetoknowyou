@@ -15,6 +15,10 @@ Using Get-Zine-To-Know-You with Pair-A-Palooza, Kara created a zine to accompany
 
 ## [The Event](https://github.com/KaraAJC/getzinetoknowyou/blob/latest/Pair-a-palooza-event-instructions.md)
 
+## [The Intro](https://docs.google.com/presentation/d/1lUuDxEE2dXOGZYTU_2d1k0Baoo06iGyPEFIAuwuvZOo/edit?usp=sharing)
+
+This is a Lunch & Learn presentation on Zines I ran at TableXI that inspired the pair-a-palooza zine
+
 ## [The Zine](https://github.com/KaraAJC/getzinetoknowyou/blob/latest/Pair-a-palooza-zine-instructions.md)
   [printable version](https://github.com/KaraAJC/getzinetoknowyou/blob/latest/Pair-A-Palooza%20zine%20printable%20template.pdf)
 
@@ -24,5 +28,5 @@ Get-Zine to Know You is a workshop developed by Kal Keckler, for the purpose of 
 
 ## Acknowledgments
 
-* Kal Keckler, creator of Get-Zine-To-Know-You
+* Kal Keckler, creator of Get-Zine-To-Know-You (@kamxhmartin)
 * Amy Wibowo, Head of BubbleSortZines, and Author of a Zine for Writing Technical Zines (@sailorhg)
