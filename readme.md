@@ -13,6 +13,14 @@ Using Get-Zine-To-Know-You with Pair-A-Palooza, Kara created a zine to accompany
 
 ## Getting Started
 
+|*Event*                              |*Zine*                                 |
+|:------------------------------------|:--------------------------------------|
+| _1:_ Set a time for event               | _1:_ Distribute Zine Template(s)|
+| _2:_ Scope purpose & topics for pairing | _2:_ Get Folks to fill zine out|
+| _3:_ Set appointment slots              | _3:_ Make space for zines to live|
+| _4:_ Announce pair-a-palooza            | _4:_ Set expectations for reading zines|
+| _5:_ Pair-and-appreciate                | _5:_ Learn from feedback & observations       |
+
 ## [The Event](https://github.com/KaraAJC/getzinetoknowyou/blob/latest/Pair-a-palooza-event-instructions.md)
 
 ## [The Intro](https://docs.google.com/presentation/d/1lUuDxEE2dXOGZYTU_2d1k0Baoo06iGyPEFIAuwuvZOo/edit?usp=sharing)
