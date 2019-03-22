@@ -1,8 +1,11 @@
 # Pair-A-Palooza
 
-Pair-A-Palooza is an event created by Kara Carrell, as a way to scope a block of time to pair with as many colleagues as possible during their apprenticeship. 
+Pair-A-Palooza is an experience created by Kara Carrell, as a way to scope a block of time to pair with as many colleagues as possible during their apprenticeship. 
 
 Using Get-Zine-To-Know-You with Pair-A-Palooza, Kara created a zine to accompany the event, and a process for introducing it with a work group.
+
+[PearConf 2019 Presentation](https://kara.codes/pair-a-palooza-presentation.pdf)
+[speaker notes(https://github.com/KaraAJC/pair-a-palooza/blob/latest/pair-a-palooza-presentation.md)
 
 ## Goals
 
