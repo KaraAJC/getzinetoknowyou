@@ -5,7 +5,9 @@ Pair-A-Palooza is an experience created by Kara Carrell, as a way to scope a blo
 Using Get-Zine-To-Know-You with Pair-A-Palooza, Kara created a zine to accompany the event, and a process for introducing it with a work group.
 
 [PearConf 2019 Talk](https://www.youtube.com/watch?v=zGTtAFdgX-w)
+
 [Presentation Slides](https://kara.codes/pair-a-palooza-presentation.pdf)
+
 [speaker notes](https://github.com/KaraAJC/pair-a-palooza/blob/latest/pair-a-palooza-presentation.md)
 
 ## Goals
