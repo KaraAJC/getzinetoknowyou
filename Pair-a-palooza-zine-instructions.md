@@ -1,5 +1,14 @@
 # Pair-A-Palooza Zine Instructions
 
+## How To Fold the Zine
+ 1. :hamburger: hamburger fold, then open
+ 2. :hotdog: hot dog fold, then open
+ 3. :open_hands: :pray: fold short edges to middle, then open
+ 4. :hamburger: hamburger fold
+ 5. :lips: cut middle crease in half-way, to make a mouth
+ 6. :hotdog: hot dog fold, then press in to make a diamond :diamonds: 
+ 7. from back page to front, press pages down, til' you have a book :green_book:
+
 Here's a quick reference to fill out the Pair-A-Palooza zine:
 
 | Page 6     | Page 5      | Page 4 | Page 3 |
