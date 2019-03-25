@@ -31,10 +31,11 @@ Using Get-Zine-To-Know-You with Pair-A-Palooza, Kara created a zine to accompany
 
 ## [The Intro](https://docs.google.com/presentation/d/1lUuDxEE2dXOGZYTU_2d1k0Baoo06iGyPEFIAuwuvZOo/edit?usp=sharing)
 
-This is a Lunch & Learn presentation on Zines I ran at TableXI that inspired the pair-a-palooza zine
+This is a [Lunch & Learn presentation on Zines](https://docs.google.com/presentation/d/1lUuDxEE2dXOGZYTU_2d1k0Baoo06iGyPEFIAuwuvZOo/edit?usp=sharing) I ran at TableXI that inspired the pair-a-palooza zine
 
 ## [The Zine](https://github.com/KaraAJC/getzinetoknowyou/blob/latest/Pair-a-palooza-zine-instructions.md)
   [printable version](https://github.com/KaraAJC/getzinetoknowyou/blob/latest/Pair-A-Palooza%20zine%20printable%20template.pdf)
+  
   [Digital Version(Make a copy!)](https://docs.google.com/presentation/d/1wRCDAAFIvmS26A9MBxGSS2KBM3GYZCKBMudyJ3Zw1vA/edit?usp=sharing)
 
 ## Inspiration
