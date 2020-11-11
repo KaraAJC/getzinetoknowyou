@@ -38,6 +38,9 @@ This is a [Lunch & Learn presentation on Zines](https://docs.google.com/presenta
   
   [Digital Version(Make a copy!)](https://docs.google.com/presentation/d/1wRCDAAFIvmS26A9MBxGSS2KBM3GYZCKBMudyJ3Zw1vA/edit?usp=sharing)
 
+## [The Checklist](https://bit.ly/pairing-checklist)
+This is the pre-PAIR-ation Checklist, that takes you through all the steps you should take for your pairing experience!
+
 ## Inspiration
 
 Get-Zine to Know You is a workshop developed by Kal Keckler, for the purpose of team building and self reflection. It was born out of the alumnx project at Write/Speak/Code 2017 as a cross between Amy Wibowo's (@sailorhg) "Writing a Technical Zine" workshop and Allison McMillian's (@allie_p) "You Better Work...Shop" workshop. 
